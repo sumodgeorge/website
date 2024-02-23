@@ -39,7 +39,7 @@
     "remark-gfm": "^1.0.0",
     "remark-parse": "^9.0.0",
     "remark-rehype": "^8.1.0",
-    "sanitize-html": "^2.4.0",
+    "sanitize-html": "^2.12.1",
     "title-case": "^3.0.3",
     "unified": "^9.2.1"
   },
