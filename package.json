@@ -24,7 +24,7 @@
     "dotenv": "^8.6.0",
     "highlight.js": "^11.0.1",
     "iframe-resizer-react": "^1.1.0",
-    "katex": "^0.13.11",
+    "katex": "^0.16.21",
     "next": "10",
     "next-i18next": "^8.3.0",
     "nextjs-progressbar": "^0.0.10",
